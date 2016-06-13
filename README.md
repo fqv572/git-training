@@ -8,6 +8,7 @@ Commit 4
 wawi 1
 wawi 2
 wawi3
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 ejer 3 feature 1
@@ -18,3 +19,5 @@ ejer 3 feature
 
 commit
 commit 444gg
+=======
+>>>>>>> refs/remotes/origin/master
